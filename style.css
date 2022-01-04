@@ -1,0 +1,16 @@
+* {
+    box-sizing: border-box;
+}
+body {
+    margin: 0;
+    padding: 0;
+}
+.card-body {
+    background-color: #FBB903FF;
+    
+}
+.card-body:hover {
+    box-shadow: 5px 6px 6px 2px #e9ecef;
+    transform: scale(1.09);
+    transition: transform 0.5s;
+}
