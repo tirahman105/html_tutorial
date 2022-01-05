@@ -5,7 +5,7 @@ body {
     margin: 0;
     padding: 0;
 }
-.card-body {
+/*.card-body {
     background-color: #FBB903FF;
     
 }
@@ -13,4 +13,22 @@ body {
     box-shadow: 5px 6px 6px 2px #e9ecef;
     transform: scale(1.09);
     transition: transform 0.5s;
+}*/
+
+.dot {
+  height: 70px;
+  width: 70px;
+  background-color: #1089EEFF;
+  border-radius: 50%;
+  display: inline-block;
+}
+
+.dot:hover{
+	box-shadow: 5px 6px 6px 2px #e9ecef;
+    transform: scale(1.09);
+    transition: transform 0.5s;
+}
+
+.grid p{
+	display: flex;
 }
