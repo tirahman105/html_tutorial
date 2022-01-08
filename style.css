@@ -32,3 +32,40 @@ body {
 .grid p{
 	display: flex;
 }
+
+
+/*lang*/
+
+/*.flex-container{
+  display: flex;
+
+}
+
+.box-with-round{
+  display: block;
+  position: absolute;
+  background-color: #4D2BBB;
+  height: 60px;
+  width: 190px;
+  border-radius: 10px;
+  margin: 10px;
+
+}
+
+.round{
+  height: 50px;
+  width: 50px;
+  background-color: #EC407A;
+  border-radius: 50%;
+  position: relative;
+  top: 7px;
+  right: 20px;
+  border: 2px solid white;
+}
+.box-text{
+  color: white;
+  text-align: center;
+  position: relative;
+  bottom: 25px;
+}
+*/
